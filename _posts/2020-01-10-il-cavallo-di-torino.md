@@ -16,6 +16,8 @@ description: >-
   su schermo nero, in cui la stessa voce fuori campo racconta l'episodio di
   Nietzsche e il cavallo, seguita da una drammatica sequenza che mostra l'uomo
   che fa ritorno a casa su un carro trainato dall'animale.
+image: /assets/img/uploads/il-cavallo-di-torino-2011-bela-tarr-agnes-hranitzky-08.jpg
+optimized_image: /assets/img/uploads/il-cavallo-di-torino-2011-bela-tarr-agnes-hranitzky-08.jpg
 category: film
 tags:
   - film
