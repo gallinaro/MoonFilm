@@ -11,7 +11,7 @@ description: >-
   tempor incididunt ut labore et dolore magna aliqua.
 image: /assets/img/uploads/settimosigill-1280x720.jpg
 optimized_image: /assets/img/uploads/settimosigill-1280x720.jpg
-category: '{{slug}}'
+category: film
 tags:
   - film
   - morte
