@@ -13,8 +13,7 @@ image: /assets/img/uploads/settimosigill-1280x720.jpg
 optimized_image: /assets/img/uploads/settimosigill-1280x720.jpg
 category: blog
 tags:
-  - welcome
-  - blog
+  - film
 author: Gally
 paginate: false
 ---
