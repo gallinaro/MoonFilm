@@ -1,7 +1,7 @@
 ---
 layout: category
 title: Film
-slug: '{{slug}}'
+slug: film
 description: 'Una categoria per i film '
 ---
 
