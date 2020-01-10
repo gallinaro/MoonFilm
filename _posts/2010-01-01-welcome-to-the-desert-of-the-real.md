@@ -9,125 +9,25 @@ subtitle: >-
 description: >-
   Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
   tempor incididunt ut labore et dolore magna aliqua.
-image: >-
-  https://res.cloudinary.com/dm7h7e8xj/image/upload/v1559821647/theme6_qeeojf.jpg
-optimized_image: >-
-  https://res.cloudinary.com/dm7h7e8xj/image/upload/c_scale,w_380/v1559821647/theme6_qeeojf.jpg
+image: /assets/img/uploads/settimosigill-1280x720.jpg
+optimized_image: /assets/img/uploads/settimosigill-1280x720.jpg
 category: blog
 tags:
   - welcome
   - blog
-author: thiagorossener
+author: Gally
 paginate: true
 ---
-Cas sociis natoque penatibus et magnis <a href="#">dis parturient montes</a>, nascetur ridiculus mus. *Aenean eu leo quam.* Pellentesque ornare sem lacinia quam venenatis vestibulum. Sed posuere consectetur est at lobortis. Cras mattis consectetur purus sit amet fermentum.
 
-> Curabitur blandit tempus porttitor. Nullam quis risus eget urna mollis ornare vel eu leo. Nullam id dolor id nibh ultricies vehicula ut id elit.
+In un Nord Europa dove imperversano peste e disperazione tornano dalle crociate in Terra Santa il nobile cavaliere Antonius Block e il suo scudiero nichilista Jöns. Sulla spiaggia, al suo arrivo, il cavaliere trova ad attenderlo la morte , che ha scelto quel momento per portarlo via. Block decide di sfidarla a scacchi, per rimandare la sua dipartita, e la Morte acconsente al rinvio.
 
-Etiam porta **sem malesuada magna** mollis euismod. Cras mattis consectetur purus sit amet fermentum. Aenean lacinia bibendum nulla sed consectetur.
+Durante il rinvio concessogli dalla Morte, Antonius e il suo scudiero Jons incontrano parecchie persone. Molti, presi dalla paura della morte, si sottopongono a violente pratiche per l’espiazione dei propri peccati , altri inseguono gli ultimi piaceri prima della fine. Jons salva anche una donna da Raval, un uomo che dieci anni prima aveva convinto il cavaliere a intraprendere la crociata.
 
-## Inline HTML elements
+I due assistono anche ad uno spettacolo teatrale messo in scena da dei saltimbanchi guidati dall’attore-manager Skat, che durante la rappresentazione, fuggirà con la moglie di un fabbro.
 
-HTML defines a long list of available inline tags, a complete list of which can be found on the [Mozilla Developer Network](https://developer.mozilla.org/en-US/docs/Web/HTML/Element).
+Il cavaliere s’imbatte poi proprio nella famiglia di saltimbanchi abbandonata da Skat: Jof, Mia e il loro piccolino Mikael. La famiglia non sembra accorgersi della tragedia che li circonda, uniti solo dall’amore reciproco e da un sincero rispetto. Questo incontro aiuterà Antonius a mettere da parte la sua angosciosa ricerca di Dio e di conseguenza accetterà il suo destino non prima di un ultimo gesto significativo: salvare dalla Morte la famigliola.
 
-* **To bold text**, use `<strong>`.
-* *To italicize text*, use `<em>`.
-* Abbreviations, like <abbr title="HyperText Markup Langage">HTML</abbr> should use `<abbr>`, with an optional `title` attribute for the full phrase.
-* Citations, like <cite>&mdash; Thiago Rossener</cite>, should use `<cite>`.
-* <del>Deleted</del> text should use `<del>` and <ins>inserted</ins> text should use `<ins>`.
-* Superscript <sup>text</sup> uses `<sup>` and subscript <sub>text</sub> uses `<sub>`.
+Dopo aver distratto la Morte per permettere a Jof, Mia e Mikael la fuga, il cavaliere raggiunge il suo castello, dove si ricongiunge con la moglie Karin e dove gusta un ultimo banchetto con i suoi compagni di viaggio: il fido scudiero, la donna che questi ha salvato, il fabbro e sua moglie, prima che la Morte venga a prenderli.
 
-Most of these elements are styled by browsers with few modifications on our part.
+Nel finale il saltimbanco Jof ha una visione, su una collina distante vede il cavaliere, lo scudiero, il fabbro e la moglie, Raval e Skat, guidati dalla Morte in una “danza macabra”.
 
-# Heading 1
-
-## Heading 2
-
-### Heading 3
-
-#### Heading 4
-
-Vivamus sagittis lacus vel augue rutrum faucibus dolor auctor. Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit. Morbi leo risus, porta ac consectetur ac, vestibulum at eros.
-
---page-break--
-
-## Code
-
-Cum sociis natoque penatibus et magnis dis `code element` montes, nascetur ridiculus mus.
-
-```js
-// Example can be run directly in your JavaScript console
-
-// Create a function that takes two arguments and returns the sum of those arguments
-var adder = new Function("a", "b", "return a + b");
-
-// Call the function
-adder(2, 6);
-// > 8
-```
-
-Aenean lacinia bibendum nulla sed consectetur. Etiam porta sem malesuada magna mollis euismod. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa.
-
-## Lists
-
-Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Aenean lacinia bibendum nulla sed consectetur. Etiam porta sem malesuada magna mollis euismod. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.
-
-* Praesent commodo cursus magna, vel scelerisque nisl consectetur et.
-* Donec id elit non mi porta gravida at eget metus.
-* Nulla vitae elit libero, a pharetra augue.
-
-Donec ullamcorper nulla non metus auctor fringilla. Nulla vitae elit libero, a pharetra augue.
-
-1. Vestibulum id ligula porta felis euismod semper.
-2. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-3. Maecenas sed diam eget risus varius blandit sit amet non magna.
-
-Cras mattis consectetur purus sit amet fermentum. Sed posuere consectetur est at lobortis.
-
-Integer posuere erat a ante venenatis dapibus posuere velit aliquet. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Nullam quis risus eget urna mollis ornare vel eu leo.
-
-## Images
-
-Quisque consequat sapien eget quam rhoncus, sit amet laoreet diam tempus. Aliquam aliquam metus erat, a pulvinar turpis suscipit at.
-
-![placeholder](https://placehold.it/800x400 "Large example image") ![placeholder](https://placehold.it/400x200 "Medium example image") ![placeholder](https://placehold.it/200x200 "Small example image")
-
-## Tables
-
-Aenean lacinia bibendum nulla sed consectetur. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-
-<table>
-  <thead>
-    <tr>
-      <th>Name</th>
-      <th>Upvotes</th>
-      <th>Downvotes</th>
-    </tr>
-  </thead>
-  <tfoot>
-    <tr>
-      <td>Totals</td>
-      <td>21</td>
-      <td>23</td>
-    </tr>
-  </tfoot>
-  <tbody>
-    <tr>
-      <td>Alice</td>
-      <td>10</td>
-      <td>11</td>
-    </tr>
-    <tr>
-      <td>Bob</td>
-      <td>4</td>
-      <td>3</td>
-    </tr>
-    <tr>
-      <td>Charlie</td>
-      <td>7</td>
-      <td>9</td>
-    </tr>
-  </tbody>
-</table>
-
-Nullam id dolor id nibh ultricies vehicula ut id elit. Sed posuere consectetur est at lobortis. Nullam quis risus eget urna mollis ornare vel eu leo.
