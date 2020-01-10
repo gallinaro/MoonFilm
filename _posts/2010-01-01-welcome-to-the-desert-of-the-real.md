@@ -11,9 +11,11 @@ description: >-
   tempor incididunt ut labore et dolore magna aliqua.
 image: /assets/img/uploads/settimosigill-1280x720.jpg
 optimized_image: /assets/img/uploads/settimosigill-1280x720.jpg
-category: blog
+category: '{{slug}}'
 tags:
   - film
+  - morte
+  - scacchi
 author: Gally
 paginate: false
 ---
