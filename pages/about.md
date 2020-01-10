@@ -1,12 +1,12 @@
 ---
 layout: page
-title: About
-description: Some description.
-permalink: /about/
 menu: true
+date: '2020-01-10 21:06:50'
+title: Su di noi
+permalink: /about/
+description: Some description.
 ---
 
-<img class="img-rounded" src="/assets/img/uploads/profile.png" alt="Thiago Rossener" width="200">
 
 # About
 
