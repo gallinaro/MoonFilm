@@ -3,10 +3,6 @@ date: '2020-01-10 23:04:28'
 layout: post
 title: 'Il cavallo di torino '
 subtitle: >-
-  «Vi è un'insistenza patologica nel riprodurre costantemente le stesse azioni
-  nell'attesa che qualcosa di nuovo accada. È una tendenza tipica dell'essere
-  umano. Quello che ho fatto nel mio film è stato riprodurre la vita.»
-description: >-
   Il film è diviso in sei parti che corrispondono ad altrettanti giorni
   consecutivi nella vita dei protagonisti, durante i quali si ripetono più o
   meno le stesse azioni della loro vita quotidiana: la donna va a prendere
@@ -16,6 +12,10 @@ description: >-
   su schermo nero, in cui la stessa voce fuori campo racconta l'episodio di
   Nietzsche e il cavallo, seguita da una drammatica sequenza che mostra l'uomo
   che fa ritorno a casa su un carro trainato dall'animale.
+description: >-
+  «Vi è un'insistenza patologica nel riprodurre costantemente le stesse azioni
+  nell'attesa che qualcosa di nuovo accada. È una tendenza tipica dell'essere
+  umano. Quello che ho fatto nel mio film è stato riprodurre la vita.»
 image: /assets/img/uploads/il-cavallo-di-torino-2011-bela-tarr-agnes-hranitzky-08.jpg
 optimized_image: /assets/img/uploads/il-cavallo-di-torino-2011-bela-tarr-agnes-hranitzky-08.jpg
 category: film
