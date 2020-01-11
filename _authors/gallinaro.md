@@ -2,7 +2,7 @@
 layout: author
 photo: ''
 name: Gally
-display_name: Gallinaro marco
+display_name: Gallinaro Marco
 position: Chief Editor
 bio: amante dei film e delle cripto
 github_username: ''
