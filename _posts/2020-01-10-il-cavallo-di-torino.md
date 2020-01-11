@@ -1,17 +1,10 @@
 ---
-date: '2020-01-10 23:04:28'
+date: '2020-01-10 19:04:28'
 layout: post
 title: 'Il cavallo di torino '
 subtitle: >-
   Il film è diviso in sei parti che corrispondono ad altrettanti giorni
-  consecutivi nella vita dei protagonisti, durante i quali si ripetono più o
-  meno le stesse azioni della loro vita quotidiana: la donna va a prendere
-  l'acqua al pozzo, veste il padre che ha un braccio paralizzato, fa bollire le
-  patate che vengono consumate con le mani. I due protagonisti stanno quasi
-  costantemente in silenzio. Le sei giornate sono precedute da un'introduzione,
-  su schermo nero, in cui la stessa voce fuori campo racconta l'episodio di
-  Nietzsche e il cavallo, seguita da una drammatica sequenza che mostra l'uomo
-  che fa ritorno a casa su un carro trainato dall'animale.
+  consecutivi nella vita dei protagonisti,
 description: >-
   «Vi è un'insistenza patologica nel riprodurre costantemente le stesse azioni
   nell'attesa che qualcosa di nuovo accada. È una tendenza tipica dell'essere
