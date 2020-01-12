@@ -17,7 +17,7 @@ tags:
   - morte
   - scacchi
 author: Gally
-paginate: false
+paginate: true
 ---
 
 In un Nord Europa dove imperversano peste e disperazione tornano dalle crociate in Terra Santa il nobile cavaliere Antonius Block e il suo scudiero nichilista Jöns. Sulla spiaggia, al suo arrivo, il cavaliere trova ad attenderlo la morte , che ha scelto quel momento per portarlo via. Block decide di sfidarla a scacchi, per rimandare la sua dipartita, e la Morte acconsente al rinvio.
