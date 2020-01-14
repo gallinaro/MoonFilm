@@ -3,10 +3,9 @@ date: '2020-01-14 08:48:05'
 layout: post
 title: Il settimo sigillo
 subtitle: >-
-  «In queste tenebre dove tu affermi di essere, dove noi presumibilmente
-  siamo... in queste tenebre non troverai nessuno che ascolti le tue grida o si
-  commuova della tua sofferenza. Asciuga le tue lacrime e specchiati nella tua
-  stessa indifferenza...»
+  «Quando l'Agnello aprì il settimo sigillo, nel cielo si fece un silenzio di
+  circa mezz'ora e vidi i sette angeli che stavano dinnanzi a Dio e furono loro
+  date sette trombe»
 description: >-
   «Quando l'Agnello aprì il settimo sigillo, nel cielo si fece un silenzio di
   circa mezz'ora e vidi i sette angeli che stavano dinnanzi a Dio e furono loro
