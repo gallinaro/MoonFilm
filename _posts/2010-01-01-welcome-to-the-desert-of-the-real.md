@@ -1,5 +1,5 @@
 ---
-date: 2019-05-16T23:48:05.000Z
+date: '2020-01-14 08:48:05'
 layout: post
 title: Il settimo sigillo
 subtitle: >-
