@@ -47,13 +47,88 @@ La partita a scacchi con la morte prosegue per tutto il film, il gioco scelto no
 Il gioco finirà, come il film, inesorabilmente come finisce la vita di qualunque essere umano con la dipartita di Block e la vittoria inesorabile della morte che danza sulla cima di una collina
 
 <html>
-<div class="main-carousel" data-flickity='{ "cellAlign": "left", "contain": true }'>
-
+<div class="main-carousel" data-flickity='{ "cellAlign": "left", "contain": false }'>
+ <div class="carousel-cell"><img src="https://s3.amazonaws.com/criterion-production/carousel-files/835667478fa9e80ab16a7281f9c569af.jpeg" alt=""></div>
   <div class="carousel-cell"><img src="https://s3.amazonaws.com/criterion-production/carousel-files/835667478fa9e80ab16a7281f9c569af.jpeg" alt=""></div>
   <div class="carousel-cell"><img src="https://s3.amazonaws.com/criterion-production/carousel-files/835667478fa9e80ab16a7281f9c569af.jpeg" alt=""></div>
-  <div class="carousel-cell"><img src="https://s3.amazonaws.com/criterion-production/carousel-files/835667478fa9e80ab16a7281f9c569af.jpeg" alt=""></div>
-
 </div>
+</html>  
 
-</html>              
+
+
+
+<html>
+<div class="filmdetail-gallery flickity-enabled is-draggable" data-film-detail-gallery="" tabindex="0">
+<div class="flickity-viewport" style="height: 743.734px; touch-action: pan-y;">
+<div class="flickity-slider" style="left: 0px; transform: translateX(228px);">
+<div class="gallery-cell is-selected" aria-selected="true" style="position: absolute; left: 0px;">			
+				<div class="gallery-contents">
+					<div class="gallery-item ">	
+													<img src="https://s3.amazonaws.com/criterion-production/carousel-files/835667478fa9e80ab16a7281f9c569af.jpeg" alt="">
+						
+						
+											</div>
+
+					<div class="gallery-tools" style="width: 800px;">
+						<div class="gal-index">1/4</div>
+					</div>
+
+					<div class="gallery-caption" style="width: 800px;">
+						<div class="caption-contain">
+													</div>
+					</div>
+				</div>
+			</div><div class="gallery-cell" aria-selected="false" style="position: absolute; left: 912px;">			
+				<div class="gallery-contents">
+					<div class="gallery-item ">	
+													<img src="https://s3.amazonaws.com/criterion-production/carousel-files/5bd28d0b6901dc7a9e899bcfa031b724.jpeg" alt="">
+						
+						
+											</div>
+
+					<div class="gallery-tools" style="width: 800px;">
+						<div class="gal-index">2/4</div>
+					</div>
+
+					<div class="gallery-caption" style="width: 800px;">
+						<div class="caption-contain">
+													</div>
+					</div>
+				</div>
+			</div><div class="gallery-cell" aria-selected="false" style="position: absolute; left: 1823px;">			
+				<div class="gallery-contents">
+					<div class="gallery-item ">	
+													<img src="https://s3.amazonaws.com/criterion-production/carousel-files/91e4f0e57389307fcad4e70e4c51efa5.jpeg" alt="">
+						
+						
+											</div>
+
+					<div class="gallery-tools" style="width: 800px;">
+						<div class="gal-index">3/4</div>
+					</div>
+
+					<div class="gallery-caption" style="width: 800px;">
+						<div class="caption-contain">
+													</div>
+					</div>
+				</div>
+			</div><div class="gallery-cell" aria-selected="false" style="position: absolute; left: 2735px;">			
+				<div class="gallery-contents">
+					<div class="gallery-item ">	
+													<img src="https://s3.amazonaws.com/criterion-production/carousel-files/5229eecdf2992841644475372eb0a689.jpeg" alt="">
+						
+						
+											</div>
+
+					<div class="gallery-tools" style="width: 800px;">
+						<div class="gal-index">4/4</div>
+					</div>
+
+					<div class="gallery-caption" style="width: 800px;">
+						<div class="caption-contain">
+													</div>
+					</div>
+				</div>
+			</div></div></div></div>
+</html>            
                 
