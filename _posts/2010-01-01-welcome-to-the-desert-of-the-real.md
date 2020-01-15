@@ -47,11 +47,13 @@ La partita a scacchi con la morte prosegue per tutto il film, il gioco scelto no
 Il gioco finirà, come il film, inesorabilmente come finisce la vita di qualunque essere umano con la dipartita di Block e la vittoria inesorabile della morte che danza sulla cima di una collina
 
 <html>
-
 <div class="main-carousel"data-flickity='{ "cellAlign": "left", "contain": true }'>
+
   <div class="carousel-cell"><img src="https://s3.amazonaws.com/criterion-production/carousel-files/835667478fa9e80ab16a7281f9c569af.jpeg" alt=""></div>
   <div class="carousel-cell"><img src="https://s3.amazonaws.com/criterion-production/carousel-files/835667478fa9e80ab16a7281f9c569af.jpeg" alt=""></div>
   <div class="carousel-cell"><img src="https://s3.amazonaws.com/criterion-production/carousel-files/835667478fa9e80ab16a7281f9c569af.jpeg" alt=""></div>
+
+</div>
 
 </html>              
                 
