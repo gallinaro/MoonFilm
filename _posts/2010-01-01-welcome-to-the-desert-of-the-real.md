@@ -14,9 +14,13 @@ image: /assets/img/uploads/settimosigill-1280x720.jpg
 optimized_image: /assets/img/uploads/settimosigill-1280x720.jpg
 category: film
 tags:
-  - film
   - morte
   - scacchi
+  - epico
+  - fantastico
+  - drammatico
+  - Ingmar Bergman
+  - b/n
 author: Gally
 paginate: true
 ---
