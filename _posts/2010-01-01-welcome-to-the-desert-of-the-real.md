@@ -6,10 +6,7 @@ subtitle: >-
   «Quando l'Agnello aprì il settimo sigillo, nel cielo si fece un silenzio di
   circa mezz'ora e vidi i sette angeli che stavano dinnanzi a Dio e furono loro
   date sette trombe»
-description: >-
-  «Quando l'Agnello aprì il settimo sigillo, nel cielo si fece un silenzio di
-  circa mezz'ora e vidi i sette angeli che stavano dinnanzi a Dio e furono loro
-  date sette trombe»
+description: '«Ed io, Antonius Block, sto giocando a scacchi con la morte.»'
 image: /assets/img/uploads/settimosigill-1280x720.jpg
 optimized_image: /assets/img/uploads/settimosigill-1280x720.jpg
 category: film
