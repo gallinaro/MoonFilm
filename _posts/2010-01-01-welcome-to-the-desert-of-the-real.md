@@ -14,8 +14,6 @@ image: /assets/img/uploads/settimosigill-1280x720.jpg
 optimized_image: /assets/img/uploads/settimosigill-1280x720.jpg
 category: film
 tags:
-  - morte
-  - scacchi
   - epico
   - fantastico
   - drammatico
@@ -27,6 +25,7 @@ paginate: true
 ![](/assets/img/uploads/Poste il settimo sigillo.jpg)
 
 <span style="color:red">(SI AVVISA CHE IL SEGUENTE ARTICOLO E' MOMENTANEO E IN VIA DI REVISIONE, E' SOLO A PURO SCOPO DIMOSTRATIVO, PRENDETE IL SEGUENTE TESTO COME UNA PRIMA BOZZA SCRITTA DI GETTO, SORVOLANDO SU ERRORI DI GRAMMATICA E STRUTTURA DELLA FRASE)</span>
+
 ## Trama in breve
 
 Il film narra la storia di Antonius Block un cavaliere di ritorno dalle crociate nelle suo paese, paese distrutto e devastato dalla miseria e dalla peste. Davanti a lui li si staglia questa figura macabra che è la morte, la morte che è venuto a prenderlo. Il crociato decide di portare avanti la sua storia riuscendo a convincere la morte a fare una partita  a scacchi con lui, se vincerà avrà la vita. La morte, annoiata, decide di accettare. Mentre la partita si gioca Block incontra un gruppo di circensi che li daranno un po’ di speranza anche per la sua mancata fede divina.
@@ -50,9 +49,3 @@ La struttura del film è basta sul tema del viaggio e sappiamo che il tema del v
 La partita a scacchi con la morte prosegue per tutto il film, il gioco scelto non è casuale ma sta a simboleggiare come il gioco della vita finisca secondo una precisa logica e ragione, nulla è lascito al caso.
 
 Il gioco finirà, come il film, inesorabilmente come finisce la vita di qualunque essere umano con la dipartita di Block e la vittoria inesorabile della morte che danza sulla cima di una collina
-
-
-
-
-
-
