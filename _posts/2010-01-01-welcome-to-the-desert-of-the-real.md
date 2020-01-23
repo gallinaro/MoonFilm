@@ -15,7 +15,6 @@ tags:
   - fantastico
   - drammatico
   - Ingmar Bergman
-  - b/n
 author: Gally
 paginate: true
 ---
