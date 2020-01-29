@@ -27,7 +27,7 @@ paginate_path: "/page/:num/"
 # Content paginator
 paginate_content:
   enabled: true
-  per_page: 3
+  
   debug: false
   collections:
     - posts
