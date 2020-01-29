@@ -1,7 +1,7 @@
 ---
 layout: category
 title: Classifiche
-slug: '{{slug}}'
+slug: classifiche
 description: La nostra TOP 10
 ---
 
