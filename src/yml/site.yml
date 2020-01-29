@@ -8,5 +8,6 @@ tags:
   - theme
   - netlify
 show_hero: true
+paginate: 6
 email: ''
 disqus_username: ''
