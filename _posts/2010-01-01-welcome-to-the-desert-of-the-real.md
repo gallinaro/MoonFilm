@@ -51,4 +51,4 @@ Il gioco finirà, come il film, inesorabilmente come finisce la vita di qualunqu
 
 
 
-<div class="td-review-overall"><div class="td-review-final-score">2.5</div><div class="td-review-final-star"><i class="td-icon-star"></i><i class="td-icon-star"></i><i class="td-icon-star-half"></i><i class="td-icon-star-empty"></i><i class="td-icon-star-empty"></i></div><span>PUNTEGGIO TOTALE</span></div>
+
