@@ -45,3 +45,10 @@ La struttura del film è basta sul tema del viaggio e sappiamo che il tema del v
 La partita a scacchi con la morte prosegue per tutto il film, il gioco scelto non è casuale ma sta a simboleggiare come il gioco della vita finisca secondo una precisa logica e ragione, nulla è lascito al caso.
 
 Il gioco finirà, come il film, inesorabilmente come finisce la vita di qualunque essere umano con la dipartita di Block e la vittoria inesorabile della morte che danza sulla cima di una collina
+
+
+
+
+
+
+<div class="td-review-overall"><div class="td-review-final-score">2.5</div><div class="td-review-final-star"><i class="td-icon-star"></i><i class="td-icon-star"></i><i class="td-icon-star-half"></i><i class="td-icon-star-empty"></i><i class="td-icon-star-empty"></i></div><span>PUNTEGGIO TOTALE</span></div>
