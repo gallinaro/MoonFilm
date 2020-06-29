@@ -1,6 +1,6 @@
 ---
 layout: category
-title: Classifiche
+title: Visti
 slug: classifiche
-description: 'Una categoria a caso '
+description: Film visti
 ---
