@@ -1,7 +1,7 @@
 ---	
 date: '2020-01-24 22:33:14'	
 layout: post	
-title: Parasite	
+title: Mulholland Drive
 subtitle: '"Oh scusa, ma mia zia non mi aveva detto che c’era qualcun altro…"'	
 description: '"Oh scusa, ma mia zia non mi aveva detto che c’era qualcun altro…"'	
 image: /assets/img/uploads/mulholland-driveimg.jpg	
