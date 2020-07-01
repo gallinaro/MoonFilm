@@ -1,5 +1,5 @@
 ---
-date: 2020-07-01 17:22:00
+date: 2020-07-01T17:22:00.000Z
 layout: post
 title: Eraserhead
 subtitle: "\"In Heaven, Everything Is Fine. You've Got Your Good Things, And
@@ -36,3 +36,12 @@ Un giorno Henry riceve la visita dell'avvenente vicina, che lo provoca sensualme
 Quella notte Henry ha un incubo più surreale del solito: egli vede la figura femminile dei suoi sogni che canta una canzone, In Heaven. Terminato il pezzo, la figura si avvicina ad Henry, ma con un lampo la donna scompare e al suo posto appare l'essere sfigurato comparso all'inizio del film. In quel momento entra in scena anche una pianta, che inizia misteriosamente a sgorgare sangue, Contemporaneamente, la testa di Henry si stacca dal corpo e al suo posto spunta quella del figlio mutante. La testa di Henry precipita invece in uno sperduto villaggio, dove viene raccolta da un bambino che la porta ad una fabbrica, dove viene usata per produrre gomme per matite.
 
 Una volta sveglio, Henry prova a bussare alla porta della vicina, ma lei non c'è. In quel momento il piccolo mutante emette degli strani versi, simili a risate, come se si stesse burlando di lui. Poco dopo, lei rientra nel proprio appartamento in compagnia di un altro uomo. Henry, spettatore della scena, rimane profondamente scosso e rivolge la propria disperazione nei confronti del figlio, uccidendolo.
+
+<html>
+<table>
+<tr><td><img src="https://raw.githubusercontent.com/gallinaro/MoonFilm/master/assets/img/uploads/profilo-tonda-piccola.png" width="200" height="200" ></td><td> ★ ★ ★ ★ ✰</td></tr>
+<tr><td><img src="https://raw.githubusercontent.com/gallinaro/MoonFilm/master/assets/img/uploads/profilotondagio%20piccola.png" width="200" height="200"></td><td> ★ ★ ★ ★ ✰</td></tr>
+<tr><td><img src="https://raw.githubusercontent.com/gallinaro/MoonFilm/master/assets/img/user.jpg" width="200" height="200"></td><td>★ ★ ★ ★ ✰</td></tr>
+<tr><td><img src="https://raw.githubusercontent.com/gallinaro/MoonFilm/master/assets/img/user.jpg" width="200" height="200"></td><td>★ ★ ★ ★ ✰</td></tr>
+</table>
+</html>
