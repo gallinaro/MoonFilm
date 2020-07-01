@@ -9,9 +9,9 @@ optimized_image: /assets/img/uploads/mulholland-driveimg.jpg
 category: film	
 tags:	
   - thriller	
-  - commedia	
+  - noir	
   - drammatico	
-  - Bong Joon-ho	  
+  - David Lynch	  
 author: Gio	
 paginate: false	
 ---	
