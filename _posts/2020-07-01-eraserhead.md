@@ -40,28 +40,6 @@ Una volta sveglio, Henry prova a bussare alla porta della vicina, ma lei non c'Ã
 
 
 
-<script>
-$(".bxslider").bxSlider({
-  minSlides: 1,
-  maxSlides: 8,
-  slideWidth: 189,
-  slideMargin: 0,
-  ticker: true,
-  speed: 50000
-});
-
-</script>
-
-
-<html>
-<ul class="bxslider">
-  <li><img src="http://placehold.it/160x189&text=1" /></li>
-  <li><img src="http://placehold.it/160x189&text=2" /></li>
-  <li><img src="http://placehold.it/160x189&text=3" /></li>
-  <li><img src="http://placehold.it/160x189&text=4" /></li>
-</ul>
-</html>
-
 
 
 
