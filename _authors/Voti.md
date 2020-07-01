@@ -1,8 +1,8 @@
 ---
 layout: author
 photo: /assets/img/uploads/profilo tonda.png
-name: Gally
-display_name: Gallinaro Marco
+name: Voti
+display_name: Voti
 position: Chief Editor
 
 ---
