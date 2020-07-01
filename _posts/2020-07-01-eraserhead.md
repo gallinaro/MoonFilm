@@ -37,11 +37,32 @@ Quella notte Henry ha un incubo più surreale del solito: egli vede la figura fe
 
 Una volta sveglio, Henry prova a bussare alla porta della vicina, ma lei non c'è. In quel momento il piccolo mutante emette degli strani versi, simili a risate, come se si stesse burlando di lui. Poco dopo, lei rientra nel proprio appartamento in compagnia di un altro uomo. Henry, spettatore della scena, rimane profondamente scosso e rivolge la propria disperazione nei confronti del figlio, uccidendolo.
 
+
+
+
+<script>
+$(".bxslider").bxSlider({
+  minSlides: 1,
+  maxSlides: 8,
+  slideWidth: 189,
+  slideMargin: 0,
+  ticker: true,
+  speed: 50000
+});
+
+</script>
+
+
 <html>
-<table>
-<tr><td><img src="https://raw.githubusercontent.com/gallinaro/MoonFilm/master/assets/img/uploads/profilo-tonda-piccola.png" width="200" height="200" ></td><td> ★ ★ ★ ★ ✰</td></tr>
-<tr><td><img src="https://raw.githubusercontent.com/gallinaro/MoonFilm/master/assets/img/uploads/profilotondagio%20piccola.png" width="200" height="200"></td><td> ★ ★ ★ ★ ✰</td></tr>
-<tr><td><img src="https://raw.githubusercontent.com/gallinaro/MoonFilm/master/assets/img/user.jpg" width="200" height="200"></td><td>★ ★ ★ ★ ✰</td></tr>
-<tr><td><img src="https://raw.githubusercontent.com/gallinaro/MoonFilm/master/assets/img/user.jpg" width="200" height="200"></td><td>★ ★ ★ ★ ✰</td></tr>
-</table>
+<ul class="bxslider">
+  <li><img src="http://placehold.it/160x189&text=1" /></li>
+  <li><img src="http://placehold.it/160x189&text=2" /></li>
+  <li><img src="http://placehold.it/160x189&text=3" /></li>
+  <li><img src="http://placehold.it/160x189&text=4" /></li>
+</ul>
 </html>
+
+
+
+
+
