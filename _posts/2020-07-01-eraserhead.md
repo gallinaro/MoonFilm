@@ -1,5 +1,5 @@
 ---
-date: 2020-07-01T17:22:00.000Z
+date: 2020-06-10 19:22:00
 layout: post
 title: Eraserhead
 subtitle: "\"In Heaven, Everything Is Fine. You've Got Your Good Things, And
