@@ -10,18 +10,18 @@ image: /assets/img/uploads/tetsuo1.jpg
 optimized_image: /assets/img/uploads/tetsuo1.jpg
 category: film
 tags:
-  - orrore
+  - horror
   - fantascienza
   - grottesco
   - Shinya Tsukamoto
 author: Gally
 paginate: false
 ---
-![](/assets/img/uploads/tetsuo-locandina.jpg)	
+![](/assets/img/uploads/tetsuo-locandina.jpg)
 
-(Testo preso da wikipedia, solamente a scopo informativo e temporaneo)	
 
-# Trama	
+
+# Trama
 
 Un auto-feticista estremo è solito innestare componenti metallici vari nel proprio corpo. Quando l'ennesima cruenta applicazione causa una reazione di rigetto, spaventato scappa per la città, finendo investito da un automobilista di passaggio assieme alla fidanzata. Ritenendo morto l'investito, i due decidono di gettarlo nel bosco senza avvertire le forze dell'ordine. Dal momento che la coppia si rende conto che il ragazzo è ancora vivo e li ha ben visti in faccia, i due temono che il fantasma del mal capitato possa tormentarli dopo la morte; così decidono di fingersi una coppia che amoreggia nel bosco nel tentativo di confondere i ricordi del ragazzo agonizzante. Da quel momento l'uomo inizia una graduale trasformazione in uomo-macchina.
 
