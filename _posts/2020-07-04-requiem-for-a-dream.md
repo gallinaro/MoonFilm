@@ -6,6 +6,8 @@ subtitle: '"Perché continui a digrignare i denti, mamma? Che pasticche ti ha
   dato quel dottore?"'
 description: '"Perché continui a digrignare i denti, mamma? Che pasticche ti ha
   dato quel dottore?"'
+image: /assets/img/uploads/requem-for-a-dream-img.jpg
+optimized_image: /assets/img/uploads/requem-for-a-dream-img.jpg
 category: film
 tags:
   - drammatico
@@ -14,6 +16,8 @@ tags:
 author: Gally5
 paginate: false
 ---
+![](/assets/img/uploads/requiem-for-a-dream-locandina.jpg)
+
 # Trama
 
 Il film è diviso in tre sottosezioni, riferibili a tre stagioni, che a loro volta sono corrispondenti rispettivamente all'ascesa, al declino e alla caduta dei protagonisti. Manca, volutamente, la primavera, stagione simbolo della rinascita e della vittoria della vita sulla morte, come a sottolineare l'ineluttabilità del destino dei personaggi.
