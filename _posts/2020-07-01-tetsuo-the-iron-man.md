@@ -14,7 +14,7 @@ tags:
   - fantascienza
   - grottesco
   - Shinya Tsukamoto
-author: Gally
+author: Gally4
 paginate: false
 ---
 ![](/assets/img/uploads/tetsuo-locandina.jpg)
