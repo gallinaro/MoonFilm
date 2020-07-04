@@ -16,7 +16,7 @@ tags:
 author: Gally5
 paginate: false
 ---
-![]()
+![](/assets/img/uploads/requiem-for-a-dream-locandina.jpg)
 
 # Trama
 
