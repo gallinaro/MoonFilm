@@ -1,20 +1,21 @@
----	
-date: '2020-01-24 22:33:14'	
-layout: post	
+---
+date: 2020-01-24 22:33:14
+layout: post
 title: Mulholland Drive
-subtitle: '"Oh scusa, ma mia zia non mi aveva detto che c’era qualcun altro…"'	
-description: '"Oh scusa, ma mia zia non mi aveva detto che c’era qualcun altro…"'	
-image: /assets/img/uploads/mulholland-driveimg.jpg	
-optimized_image: /assets/img/uploads/mulholland-driveimg.jpg	
-category: film	
-tags:	
-  - thriller	
-  - noir	
-  - drammatico	
-  - David Lynch	  
+subtitle: '"Oh scusa, ma mia zia non mi aveva detto che c’era qualcun altro…"'
+description: '"Oh scusa, ma mia zia non mi aveva detto che c’era qualcun altro…"'
+image: /assets/img/uploads/mulholland-drive-img2.jpg
+optimized_image: /assets/img/uploads/mulholland-drive-img2.jpg
+category: film
+tags:
+  - thriller
+  - noir
+  - drammatico
+  - David Lynch
 author: Gally5
-paginate: false	
----	
+paginate: false
+---
+	
 ![](/assets/img/uploads/mulholland_drive locandina.jpg)	
 
 
