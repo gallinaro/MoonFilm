@@ -10,7 +10,7 @@ image: /assets/img/uploads/eraserhead.jpg
 optimized_image: /assets/img/uploads/eraserhead.jpg
 category: film
 tags:
-  - orrore
+  - horror
   - grottesco
   - psicologico
   - David Lynch
