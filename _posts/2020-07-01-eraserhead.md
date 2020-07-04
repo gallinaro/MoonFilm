@@ -14,7 +14,7 @@ tags:
   - grottesco
   - psicologico
   - David Lynch
-author: Stefano
+author: Gally
 paginate: false
 ---
 ![](/assets/img/uploads/Eraserhead-locandina.jpg)
