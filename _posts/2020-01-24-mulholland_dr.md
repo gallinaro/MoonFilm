@@ -12,7 +12,7 @@ tags:
   - noir	
   - drammatico	
   - David Lynch	  
-author: Gio	
+author: Gally5
 paginate: false	
 ---	
 ![](/assets/img/uploads/mulholland_drive locandina.jpg)	
