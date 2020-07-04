@@ -2,7 +2,7 @@
 layout: author
 photo: null
 name: Stefano
-display_name: Feltre Stefano  ★ ★ ★ ★ ✰
+display_name: Feltre Stefano     ★ ★ ★ ★ ✰
 position: Chief Editor
-bio: prova bio
+bio: ★ ★ ★ ★ ✰
 ---
